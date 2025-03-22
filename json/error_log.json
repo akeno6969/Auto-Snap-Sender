@@ -1,0 +1,15 @@
+{
+  "session_id": "abc123",
+  "errors": [
+    {
+      "timestamp": "2025-03-22T14:05:10Z",
+      "error": "Login failed due to incorrect password",
+      "error_code": "INVALID_CREDENTIALS"
+    },
+    {
+      "timestamp": "2025-03-22T14:07:50Z",
+      "error": "UI element not found for 'Send To' button",
+      "error_code": "UI_ERROR"
+    }
+  ]
+}

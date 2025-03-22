@@ -1,0 +1,7 @@
+{
+  "username": "your_snapchat_username",
+  "password": "your_snapchat_password",
+  "num_snaps": 10,
+  "send_interval": 2,
+  "action_delay": 0.5
+}

@@ -1,0 +1,7 @@
+{
+  "use_headless": true,
+  "browser": "chrome",
+  "driver_path": "/path/to/chromedriver",
+  "timeout": 10,
+  "maximize_window": true
+}

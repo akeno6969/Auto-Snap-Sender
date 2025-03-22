@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "release_date": "2025-03-22",
+  "updates": [
+    {
+      "version": "1.0.0",
+      "release_notes": "Initial release of this <3"
+    }
+  ]
+}

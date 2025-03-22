@@ -1,0 +1,24 @@
+{
+  "session_id": "abc123",
+  "start_time": "2025-03-22T14:00:00Z",
+  "end_time": "2025-03-22T14:30:00Z",
+  "actions": [
+    {
+      "action": "login",
+      "status": "success",
+      "timestamp": "2025-03-22T14:01:00Z"
+    },
+    {
+      "action": "send_snap",
+      "status": "success",
+      "recipient": "recipient_username",
+      "timestamp": "2025-03-22T14:02:30Z"
+    },
+    {
+      "action": "send_snap",
+      "status": "success",
+      "recipient": "recipient_username",
+      "timestamp": "2025-03-22T14:05:00Z"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "snaps_to_send": 10,
+  "send_interval": 2,
+  "action_delay": 0.5,
+  "max_retries": 3,
+  "retry_delay": 5,
+  "automated_login": true
+}

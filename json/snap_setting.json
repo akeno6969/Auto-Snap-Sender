@@ -1,0 +1,8 @@
+{
+  "send_caption": true,
+  "caption_text": "Snap from automation script",
+  "send_with_filter": false,
+  "filter_name": "None",
+  "photo_size": "original",
+  "video_length": 10
+}
